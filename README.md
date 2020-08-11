@@ -1,4 +1,5 @@
 ### Hi there 👋
+My name is Jan and I am from Germany. I am a full-stack developer building websites. 
 
 - Things I am interested in: 
   - 🚀 Fast websites
